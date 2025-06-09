@@ -1,0 +1,16 @@
+Tipo: Verdadero/Falso
+Pregunta: ¿Gano Messi la EUROCOPA?
+RespuestaCorrecta: F
+------------------------------
+Tipo: Alternativa
+Pregunta: ¿cuál es la capital de Chile?
+OpcionA: Santiago
+OpcionB: Manila
+OpcionC: Berlin
+OpcionD: Nagoya
+RespuestaCorrecta: A
+------------------------------
+Tipo: Verdadero/Falso
+Pregunta: 2+2=4?
+RespuestaCorrecta: V
+------------------------------

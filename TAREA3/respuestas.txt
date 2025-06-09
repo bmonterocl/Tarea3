@@ -1,0 +1,20 @@
+Pregunta: ¿Gano Messi la EUROCOPA?
+Respuesta del alumno: V
+Respuesta correcta: F
+Resultado: INCORRECTO
+------------------------------
+Pregunta: ¿Gano Messi la EUROCOPA?
+Respuesta del alumno: F
+Respuesta correcta: F
+Resultado: CORRECTO
+------------------------------
+Pregunta: ¿cuál es la capital de Chile?
+Respuesta del alumno: B
+Respuesta correcta: A
+Resultado: INCORRECTO
+------------------------------
+Pregunta: 2+2=4?
+Respuesta del alumno: V
+Respuesta correcta: V
+Resultado: CORRECTO
+------------------------------

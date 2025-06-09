@@ -1,0 +1,15 @@
+Nombre: Jaime
+RUT: 213327771
+Edad: 21
+Asignatura: Telecomunicaciones
+------------------------------
+Nombre: Jaime
+RUT: 213327771
+Edad: 21
+Asignatura: Matematicas
+------------------------------
+Nombre: benjamin montero
+RUT: 21377831-5
+Edad: 21
+Asignatura: paradigmas
+------------------------------
